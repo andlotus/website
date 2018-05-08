@@ -1,0 +1,47 @@
+body, html {
+	cursor: url("https://cdn.frankerfacez.com/emoticon/236895/4"), auto;
+}
+
+}
+.navbar {
+  background-color: #000000 ;
+  border-color: #ffffff ;
+  background-repeat: no-repeat;
+}
+
+li {
+    border-right: 1px solid #bbb;
+	 font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+.nav.navbar-nav a {
+  color: #FFFFFF;
+  font-size: 150%;
+  font-weight: bold !important;
+}
+
+
+a, a:hover, a:visited, h3 {
+  color: #ffad33;
+  	cursor: url("https://cdn.frankerfacez.com/emoticon/236895/4"), auto !important;
+  font-weight: 500;
+}
+
+p {
+  font-size: 140%;
+  	color: #000000;
+	text-align: center;
+}
+h4 {
+	font-size: 140%;
+	text-align: center;
+}
+img {
+    margin-left: center;
+    margin-right: center;
+    width: 100%;
+}
